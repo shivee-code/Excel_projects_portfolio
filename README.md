@@ -34,7 +34,10 @@ roles.
 
 ------------------------------------------------------------------------
 
-## Contact
+## Connect With Me
+- GitHub: [shivee-code](https://github.com/shivee-code)
+- LinkedIn: [Shivam Kumar](https://linkedin.com/in/shivam-kumar-2a0371246)
 
-GitHub: https://github.com/shivee-code
-LinkedIn: https://www.linkedin.com/in/shivam-kumar-2a0371246/
+---
+
+If you found this repo helpful, feel free to star it and check out more of my upcoming projects.
