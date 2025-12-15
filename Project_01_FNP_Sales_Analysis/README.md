@@ -1,19 +1,21 @@
-# 🌼 FNP Sales Analysis --- Excel Dashboard
+# FNP Sales Analysis — Excel Dashboard
 
-An interactive Excel dashboard analyzing **Ferns & Petals (FNP)** sales
-performance across occasions, products, cities, and delivery timelines.
+An interactive Excel dashboard project analyzing sales performance for **Ferns N Petals (FNP)**.  
+This project focuses on uncovering revenue trends, customer behavior, product performance, and delivery efficiency across multiple business dimensions.
+
+The analysis is designed to support data-driven decision-making using Excel-based analytics and visualization techniques.
+
+---
+
+## Dashboard Preview
+
+![FNP Sales Dashboard](exports/dashboard_screenshot1.png)
+
+---
+
+## 📂 Project Structure & Files
 
 ------------------------------------------------------------------------
-
-## 📌 Dashboard Preview
-
-(Replace with actual screenshot)
-
-    ![Dashboard](exports/dashboard_screenshot1.png)
-
-------------------------------------------------------------------------
-
-## 📂 What's Included
 
 -   `workbook/FNP_Sales_Dashboard.xlsx`\
 -   `data/raw/` --- Raw sample dataset\
@@ -25,7 +27,7 @@ performance across occasions, products, cities, and delivery timelines.
 
 ------------------------------------------------------------------------
 
-## 📈 Key Insights
+## Key Insights
 
 -   Total Revenue: ₹35,20,984\
 -   Total Orders: 1000\
@@ -37,13 +39,13 @@ performance across occasions, products, cities, and delivery timelines.
 
 ------------------------------------------------------------------------
 
-## 🛠 Tools Used
+## Tools Used
 
 Excel, Power Query, Pivot Tables, Slicers, Charts
 
 ------------------------------------------------------------------------
 
-## ▶ How to Open
+## How to Open
 
 1.  Download the Excel file\
 2.  Open in Excel\
