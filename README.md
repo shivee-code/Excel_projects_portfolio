@@ -1,6 +1,6 @@
 # Excel Projects Portfolio
 
-Welcome to my Excel Projects Portfolio — a curated collection of real-world data analysis and dashboard projects using Excel. These projects demonstrate business insights, dashboard design, and analytical workflows using Power Query, Pivot Tables, KPI reporting, and interactive dashboards.<br>
+Welcome to my Excel Projects Portfolio — a curated collection of real-world data analysis and dashboard projects using Excel. These projects demonstrate business insights, dashboard design, and analytical workflows using Power Query, Pivot Tables, KPI reporting, and interactive dashboards.<br><br>
 This portfolio highlights my ability to transform raw data into actionable business insights using Excel.
 
 
