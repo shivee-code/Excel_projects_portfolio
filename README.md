@@ -1,28 +1,22 @@
-# 📊 Excel Projects Portfolio
+# Excel Projects Portfolio
 
 A collection of real-world Excel analytics projects built using **Power
 Query, Pivot Tables, KPI reporting, and interactive dashboards**.
 
 ------------------------------------------------------------------------
 
-## 📁 Projects Included
+## Projects Included
 
 ### 🔹 Project 1: FNP Sales Analysis Dashboard
 
 Revenue trends, occasion insights, category performance, top products,
 and delivery time analysis.
 
-### 🔹 Project 2: Retail Store Sales Dashboard *(Placeholder)*
-
-Store & product level analytics.
-
-### 🔹 Project 3: HR Employee Analytics Dashboard *(Placeholder)*
-
-Attrition & workforce insights.
+### 🔹 Project 2: Coming Soon
 
 ------------------------------------------------------------------------
 
-## 🛠 Tools & Techniques
+## Tools & Techniques
 
 -   Excel\
 -   Power Query\
@@ -33,13 +27,14 @@ Attrition & workforce insights.
 
 ------------------------------------------------------------------------
 
-## 🎯 Purpose
+## Purpose
 
-Showcase analytical & dashboard-building skills for Data Analyst and BI
+Showcase analytical & dashboard-building skills for a Data Analyst and BI
 roles.
 
 ------------------------------------------------------------------------
 
-## 📬 Contact
+## Contact
 
 GitHub: https://github.com/shivee-code
+LinkedIn: https://www.linkedin.com/in/shivam-kumar-2a0371246/
