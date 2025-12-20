@@ -83,7 +83,7 @@ These insights help identify seasonal demand patterns and operational improvemen
 
 ---
 
-## Notes
+## Notes*
 
 - This project uses **sample / anonymized data** for learning and portfolio purposes.
 - The dashboard is optimized for desktop Excel viewing.
