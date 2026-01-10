@@ -8,7 +8,7 @@ These projects focus on transforming raw business data into actionable insights 
 
 ## Projects Included
 
-### [Project 01: FNP Sales Analysis](Project_01_FNP_Sales_Analysis/)
+### [Project 01: FNP Sales Analysis - Excel Dashboard](Project_01_FNP_Sales_Analysis/)
 A comprehensive sales performance analysis for Ferns N Petals (FNP), aimed at understanding revenue trends, customer behavior, and operational efficiency.
 
 **Key Analysis & Insights:**
