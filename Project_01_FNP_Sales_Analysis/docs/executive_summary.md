@@ -1,36 +1,45 @@
-# 📘 Executive Summary --- FNP Sales Analysis
+# Executive Summary — FNP Sales Analysis
 
-This project provides a complete sales performance analysis for **Ferns
-and Petals (FNP)** using an interactive Excel dashboard.\
-Data covers orders, products, customers, cities, and delivery timelines.
+This project presents a comprehensive sales performance analysis for **Ferns N Petals (FNP)** using an interactive Excel dashboard. The analysis integrates data related to orders, products, customers, cities, and delivery timelines to evaluate overall business performance.
 
-The objective is to uncover insights related to:
+The primary objective of this analysis is to identify key revenue drivers, understand customer purchasing behavior, and assess operational efficiency to support data-driven decision-making.
 
--   Revenue performance\
--   Product & category contribution\
--   Occasion-driven sales\
--   Delivery efficiency\
--   Customer spending behavior\
--   City-wise demand
+---
 
-### ⭐ Key Findings
+## Analysis Objectives
 
--   **Total Revenue:** ₹35,20,984\
--   **Total Orders:** 1000\
--   Customers spend **₹3,520.98** per order on average\
--   **Anniversary** generates the highest revenue\
--   **Colors, Soft Toys, Sweets** are top-performing categories\
--   Sales peak in **February, August, October**\
--   Major order cities: **Dhanbad, Hardiwar, Imphal**\
--   Average delivery time is **5.53 days**
+- Evaluate overall revenue performance and order trends  
+- Analyze product and category-level contribution to sales  
+- Understand occasion-driven sales patterns  
+- Assess delivery efficiency and fulfillment timelines  
+- Examine customer spending behavior  
+- Identify high-demand cities and regional trends  
 
-### 🎯 Business Recommendations
+---
 
--   Boost marketing around key occasions\
--   Increase inventory in high-performing categories\
--   Improve logistics to reduce delivery time\
--   Use city-wise targeting for campaigns\
--   Plan for seasonal demand spikes
+## Key Findings
 
-This dashboard helps leadership make data-driven decisions using clear,
-dynamic visual insights.
+- **Total Revenue:** ₹35,20,984  
+- **Total Orders:** 1,000  
+- **Average Order Value:** ₹3,520.98  
+- **Top Revenue-Generating Occasion:** Anniversary  
+- **Top-Performing Categories:** Colors, Soft Toys, Sweets  
+- **Peak Sales Months:** February, August, October  
+- **High-Order Cities:** Dhanbad, Haridwar, Imphal  
+- **Average Delivery Time:** 5.53 days  
+
+---
+
+## Business Recommendations
+
+- Strengthen marketing campaigns around high-performing occasions such as anniversaries and festivals  
+- Optimize inventory planning for top-selling product categories  
+- Improve logistics and delivery operations to reduce average delivery time  
+- Implement city-specific marketing strategies for high-demand regions  
+- Prepare proactively for seasonal demand spikes to maximize revenue opportunities  
+
+---
+
+## Business Impact
+
+The interactive dashboard enables business leaders to monitor performance metrics, identify trends, and make informed decisions through clear, dynamic, and actionable visual insights.
