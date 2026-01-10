@@ -23,7 +23,22 @@ A comprehensive sales performance analysis for Ferns N Petals (FNP), aimed at un
 
 ---
 
-### Project 02: Coming Soon
+### [Project 02: Swiggy Sales & Customer Behavior Analysis - Excel Dashboard](----------)
+An end-to-end Excel dashboard project analyzing **food delivery sales, order trends, customer ratings, food preferences (Veg vs Non-Veg), and geographic performance** for Swiggy.
+
+**Key Highlights:**
+- Total Sales, Total Orders, Average Order Value (AOV), and Ratings KPIs  
+- Monthly, weekly, daily, and quarterly sales trend analysis  
+- Veg vs Non-Veg food revenue contribution  
+- Top-performing cities and state-wise sales analysis  
+- Customer satisfaction analysis using ratings data  
+
+**Tools Used:**  
+Microsoft Excel, Power Query, Pivot Tables, Pivot Charts, Map Charts, KPIs, Slicers
+
+---
+
+### Project 03: Coming Soon
 Additional Excel dashboard and analytics projects covering HR, retail, and financial datasets will be added soon.
 
 ---
@@ -31,15 +46,18 @@ Additional Excel dashboard and analytics projects covering HR, retail, and finan
 ## Tech Stack
 
 **Tools:**  
-- Microsoft Excel  
-- Power Query  
+- Microsoft Excel (Advanced)
+- Power Query (ETL & Data Transformation)
 
-**Concepts:**  
-- Data Cleaning & Transformation  
+**Core Concepts:**  
+- Data Cleaning, Transformation & Validation  
+- Exploratory Data Analysis (EDA)  
 - Pivot Tables & Pivot Charts  
-- KPI Design & Reporting  
-- Dashboard Design  
-- Slicers & Timelines  
+- KPI Design, Tracking & Performance Reporting  
+- Dashboard Design & Data Visualization  
+- Slicers, Filters & Timelines for Interactivity  
+- Business, Sales & Customer Analytics  
+- Trend Analysis (Daily, Weekly, Monthly, Quarterly)  
 
 ---
 
