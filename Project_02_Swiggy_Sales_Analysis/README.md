@@ -9,7 +9,7 @@ The analysis is designed to support **data-driven business and operational decis
 ---
 
 ## Dashboard Preview
-![Swiggy Sales Analysis Dashboard]()
+![Swiggy Sales Analysis Dashboard](exports/dashboard_screenshot.png)
 
 ---
 
@@ -18,7 +18,7 @@ The analysis is designed to support **data-driven business and operational decis
 Project_02_Swiggy_Sales_Analysis/<br>
 `│`<br>
 `├── data/`<br>
-`│   └── raw/                            # Raw Swiggy order-level Excel.xlsx dataset`<br>
+`│   └── raw/Swiggy Raw Data Excel.xlsx  # Raw Swiggy order-level Excel dataset`<br>
 `│`<br>
 `├── docs/`<br>
 `│   ├── executive_summary.md            # Business summary & insights`<br>
