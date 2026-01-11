@@ -26,7 +26,7 @@ A comprehensive sales performance analysis for Ferns N Petals (FNP), aimed at un
 ### [Project 02: Swiggy Sales & Customer Behavior Analysis - Excel Dashboard](Project_02_Swiggy_Sales_Analysis)
 An end-to-end Excel dashboard project analyzing **food delivery sales, order trends, customer ratings, food preferences (Veg vs Non-Veg), and geographic performance** for Swiggy.
 
-**Key Highlights:**
+**Key Analysis & Insights:**
 - Total Sales, Total Orders, Average Order Value (AOV), and Ratings KPIs  
 - Monthly, weekly, daily, and quarterly sales trend analysis  
 - Veg vs Non-Veg food revenue contribution  
