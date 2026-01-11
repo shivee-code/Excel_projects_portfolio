@@ -34,7 +34,7 @@ These derived fields enabled time-based, revenue-based, and operational performa
 
 ------------------------------------------------------------------------
 
-## 🔄 2. Power Query (ETL Process)
+## 2. Power Query (ETL Process)
 
 Power Query was used to perform **ETL (Extract, Transform, Load)** operations and prepare a clean analytical dataset.
 
