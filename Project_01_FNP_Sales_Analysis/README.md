@@ -17,20 +17,20 @@ The analysis is designed to support data-driven decision-making using Excel-base
 Project_01_FNP_Sales_Analysis/<br>
 `│`<br>
 `├── data/`<br>
-`│ └── raw/ # Raw source datasets (customers.csv, orders.csv, products.csv)`<br>
+`│ └── raw/                        # Raw source datasets (customers.csv, orders.csv, products.csv)`<br>
 `│`<br>
 `├── docs/`<br>
-`│ ├── executive_summary.md # Business summary & insights`<br>
-`| |── fnp_questions.pdf # Projects questions`<br>
-`│ └── methodology.md # Data cleaning & analysis approach`<br>
+`│ ├── executive_summary.md        # Business summary & insights`<br>
+`| |── fnp_questions.pdf           # Projects questions`<br>
+`│ └── methodology.md              # Data cleaning & analysis approach`<br>
 `│`<br>
 `├── exports/`<br>
-`│ └── dashboard_screenshot1.png # Dashboard visuals`<br>
+`│ └── dashboard_screenshot1.png   # Dashboard visuals`<br>
 `│`<br>
 `├── workbook/`<br>
-`│ └── fnp_sales_dashboard.xlsx # Interactive Excel dashboard`<br>
+`│ └── fnp_sales_dashboard.xlsx    # Interactive Excel dashboard`<br>
 `│`<br>
-`└── README.md # Project documentation`<br>
+`└── README.md                     # Project documentation`<br>
 
 ------------------------------------------------------------------------
 
