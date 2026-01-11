@@ -26,13 +26,13 @@ Project_02_Swiggy_Sales_Analysis/<br>
 `│   └── methodology.md                  # Data preparation & analysis approach`<br>
 `│`<br>
 `├── exports/`<br>
-`│   └── dashboard_screenshot1.png       # Dashboard visuals`<br>
+`│   └── dashboard_screenshot.png        # Dashboard visuals`<br>
 `│`<br>
 `├── assets/`<br>
 `│   └── images/                         # Logos & dashboard icons`<br>
 `│`<br>
 `├── workbook/`<br>
-`│   └── swiggy_sales_dashboard.xlsx     # Interactive Excel dashboard/Analysis`<br>
+`│   └── Swiggy_Analysis_Dashboard.xlsx  # Interactive Excel dashboard/Analysis`<br>
 `│`<br>
 `└── README.md                           # Project documentation`<br>
 
@@ -80,7 +80,7 @@ Project_02_Swiggy_Sales_Analysis/<br>
 
 ## How to Use the Dashboard
 1. Download the Excel file from the `workbook/` folder
-2. Open `swiggy_sales_dashboard.xlsx` in Microsoft Excel
+2. Open `Swiggy_Analysis_Dashboard.xlsx` in Microsoft Excel
 3. Enable content/macros (if prompted)
 4. Go to **Data → Refresh All**
 5. Use slicers and filters to explore insights interactively
