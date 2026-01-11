@@ -1,4 +1,4 @@
-# 📊 Swiggy Sales & Customer Behavior Analysis — Excel Dashboard
+# Swiggy Sales & Customer Behavior Analysis — Excel Dashboard
 
 An interactive **Excel dashboard project** analyzing sales performance and customer behavior for **Swiggy**, a leading online food delivery platform in India.
 
@@ -8,37 +8,37 @@ The analysis is designed to support **data-driven business and operational decis
 
 ---
 
-## 🖥 Dashboard Preview
-(Dashboard screenshots available in the `exports/` folder)
+## Dashboard Preview
+![Swiggy Sales Analysis Dashboard]()
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
-Project_02_Swiggy_Sales_Analysis/
-│
-├── data/
-│   └── raw/                         # Raw Swiggy order-level dataset
-│
-├── docs/
-│   ├── executive_summary.md         # Business summary & insights
-│   ├── swiggy_problem_statements.pdf
-│   └── methodology.md               # Data preparation & analysis approach
-│
-├── exports/
-│   └── dashboard_screenshot1.png
-│
-├── assets/
-│   └── images/                      # Logos & dashboard icons
-│
-├── workbook/
-│   └── swiggy_sales_dashboard.xlsx
-│
-└── README.md
+Project_02_Swiggy_Sales_Analysis/<br>
+`│`<br>
+`├── data/`<br>
+`│   └── raw/                            # Raw Swiggy order-level Excel.xlsx dataset`<br>
+`│`<br>
+`├── docs/`<br>
+`│   ├── executive_summary.md            # Business summary & insights`<br>
+`│   ├── swiggy_problem_statements.pptx  # Problem Statements/Findings`<br>
+`│   └── methodology.md                  # Data preparation & analysis approach`<br>
+`│`<br>
+`├── exports/`<br>
+`│   └── dashboard_screenshot1.png       # Dashboard visuals`<br>
+`│`<br>
+`├── assets/`<br>
+`│   └── images/                         # Logos & dashboard icons`<br>
+`│`<br>
+`├── workbook/`<br>
+`│   └── swiggy_sales_dashboard.xlsx     # Interactive Excel dashboard/Analysis`<br>
+`│`<br>
+`└── README.md                           # Project documentation`<br>
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 - Analyze overall **sales performance and order volume**
 - Measure **customer satisfaction** using ratings data
 - Track **Average Order Value (AOV)**
@@ -49,7 +49,7 @@ Project_02_Swiggy_Sales_Analysis/
 
 ---
 
-## 📊 Key KPIs Tracked
+## Key KPIs Tracked
 - **Total Sales (₹)** – Overall revenue generated
 - **Total Orders** – Number of orders placed
 - **Average Order Value (₹)** – Revenue per order
@@ -58,7 +58,7 @@ Project_02_Swiggy_Sales_Analysis/
 
 ---
 
-## 📈 Key Analysis Areas
+## Key Analysis Areas
 - **Time-Based Trends:** Daily, weekly, monthly, and quarterly sales analysis
 - **Food Preference Analysis:** Veg vs Non-Veg revenue contribution
 - **Geographic Analysis:** State-wise sales distribution and top cities
@@ -67,7 +67,7 @@ Project_02_Swiggy_Sales_Analysis/
 
 ---
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 - Microsoft Excel (Advanced)
 - Power Query (ETL & Data Transformation)
 - Pivot Tables & Pivot Charts
@@ -78,7 +78,7 @@ Project_02_Swiggy_Sales_Analysis/
 
 ---
 
-## ▶ How to Use the Dashboard
+## How to Use the Dashboard
 1. Download the Excel file from the `workbook/` folder
 2. Open `swiggy_sales_dashboard.xlsx` in Microsoft Excel
 3. Enable content/macros (if prompted)
@@ -87,13 +87,13 @@ Project_02_Swiggy_Sales_Analysis/
 
 ---
 
-## 📝 Notes
+## Notes
 - This project uses **sample/anonymized data** for learning and portfolio purposes
 - The dashboard is optimized for **desktop Excel viewing**
 
 ---
 
-## ✅ Outcome
+## Outcome
 This project demonstrates my ability to:
 - Perform **end-to-end Excel-based data analysis**
 - Apply **feature engineering and KPI tracking**
