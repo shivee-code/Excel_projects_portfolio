@@ -72,7 +72,8 @@ This portfolio is built to:
 
 ## 🔗 Connect With Me
 
-- **GitHub:** [shivee-code](https://github.com/shivee-code)  
-- **LinkedIn:** [Shivam Kumar](https://www.linkedin.com/in/shivam-kumar-2a0371246/)
+**Role:** Data Analyst / BI Developer  
+**Contact:** [Shivam Kumar](https://www.linkedin.com/in/shivam-kumar-2a0371246/)
+
 
 ⭐ If you found this repository helpful, feel free to star it and explore my upcoming projects.
